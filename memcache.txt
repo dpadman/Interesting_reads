@@ -1,0 +1,14 @@
+http://memcached.org/about
+--------------------------
+
+what memcache is and is NOT
+http://joped.com/blog/2009/03/13/a-rant-about-proper-memcache-usage/
+
+consistent hashing in memcache
+Implement a DHT similar to Chord P2P protocol for key store and lookup.
+
+usage:
+https://www.digitalocean.com/community/tutorials/how-to-install-and-use-memcache-on-ubuntu-14-04
+https://cloud.google.com/appengine/articles/best-practices-for-app-engine-memcache
+https://blog.memcachier.com/2014/11/05/ubuntu-libmemcached-and-sasl-support/
+http://lists.danga.com/pipermail/memcached/2004-October/000796.html
